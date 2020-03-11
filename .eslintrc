@@ -2,7 +2,6 @@
   "ecmaFeatures": {
     "modules": true
   },
-  "useEslintrc": false,
   "env": {
     "browser": true,
     "node": true,
